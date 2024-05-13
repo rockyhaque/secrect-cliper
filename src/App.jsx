@@ -62,7 +62,7 @@ function App() {
             
           </button>
         </div>
-        <div className="flex text-sm gap-x-3">
+        <div className="flex flex-col md:flex-row lg:flex-row  items-center  space-y-2 md:space-y-0 lg:space-y-0 text-sm gap-x-3">
           <div className="flex items-center gap-x-1">
             <input
               type="range"
