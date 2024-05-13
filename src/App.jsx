@@ -40,8 +40,8 @@ function App() {
   }, [length, numberAllowed, charAllowed, passGenerator]);
 
   return (
-    <div className="font-raleway">
-      <h1 className="text-3xl font-semibold  text-center text-white mt-32">
+    <div className="font-raleway px-4 md:px-0 lg:px-0">
+      <h1 className="text-xl md:text-3xl lg:text-3xl font-semibold  text-center text-white mt-32">
         Generate Your Random Password{" "}
       </h1>
 
