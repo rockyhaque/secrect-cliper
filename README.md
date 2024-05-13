@@ -4,7 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/secrect-cliper)
 ![GitHub stars](https://img.shields.io/github/stars/rockyhaque/secrect-cliper?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rockyhaque/rockyhaque?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rockyhaque/secrect-cliper?style=social)
 [![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-handle/)](https://www.linkedin.com/in/your-linkedin-handle/)
 [![Follow me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rocky_haque.10/)](https://www.instagram.com/rocky_haque.10/)
 [![Connect with me on Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rockyhaquee/)](https://www.facebook.com/rockyhaquee/)
@@ -12,7 +12,7 @@
 This is a simple React application for generating random passwords with customizable options. It allows users to specify the length of the password and choose whether to include numbers and special characters.
 
 ## Live Link
-
+-> https://secrect-cliper.netlify.app
 
 ## Features
 
