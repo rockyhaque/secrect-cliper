@@ -45,7 +45,7 @@ function App() {
         Generate Your Random Password{" "}
       </h1>
 
-      <div className="w-full max-w-lg mx-auto shadow-2xl rounded-lg px-8 py-7 my-12 text-sky-600 font-semibold backdrop-blur-sm bg-white/30">
+      <div className="w-full max-w-md md:max-w-lg lg:max-w-lg mx-auto shadow-2xl rounded-lg px-8 py-7 my-12 text-sky-600 font-semibold backdrop-blur-sm bg-white/30">
         <div className="flex shadow-lg rounded-lg overflow-hidden mb-4">
           <input
             type="text"
